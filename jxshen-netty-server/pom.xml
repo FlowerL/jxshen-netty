@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
-		<groupId>com.jxshen</groupId>
+		<groupId>com.jxshen.netty</groupId>
 		<artifactId>jxshen-netty</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
