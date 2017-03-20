@@ -18,7 +18,6 @@ public class TimeServerHandler extends ChannelInboundHandlerAdapter {
 
             @Override
             public void operationComplete(ChannelFuture future) throws Exception {
-                // TODO Auto-generated method stub
                 assert f == future;
                 ctx.close();
             }
