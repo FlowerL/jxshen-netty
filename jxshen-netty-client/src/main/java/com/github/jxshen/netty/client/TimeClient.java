@@ -36,6 +36,5 @@ public class TimeClient {
         } finally {
             workGroup.shutdownGracefully();
         }
-        
     }
 }
