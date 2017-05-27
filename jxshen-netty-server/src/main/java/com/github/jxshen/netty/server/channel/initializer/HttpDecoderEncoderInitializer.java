@@ -1,4 +1,4 @@
-package com.github.jxshen.netty.server.channel;
+package com.github.jxshen.netty.server.channel.initializer;
 
 import io.netty.channel.Channel;
 import io.netty.channel.ChannelInitializer;

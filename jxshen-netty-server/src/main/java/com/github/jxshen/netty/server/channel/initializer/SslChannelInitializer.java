@@ -1,4 +1,4 @@
-package com.github.jxshen.netty.server.channel;
+package com.github.jxshen.netty.server.channel.initializer;
 
 import javax.net.ssl.SSLContext;
 import javax.net.ssl.SSLEngine;
